@@ -1,6 +1,6 @@
 # Othello (Reversi) Game
 
-Python backend for Othello, a two-player strategy board game. This code serves as a demonstration of my proficiency in Object-Oriented Programming (OOP) principles
+Python command-line interface version of Othello, a two-player strategy board game. This code serves as a demonstration of my proficiency in Object-Oriented Programming (OOP) principles
 and my understanding of fundamental computer science concepts.
 
 ## Objective:
